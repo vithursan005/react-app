@@ -1,1 +1,4 @@
-this is css file
+#this is css file
+body { margin: 0; font-family: Arial, sans-serif; }
+h1 { color: #2563eb; }
+p { line-height: 1.6; }
